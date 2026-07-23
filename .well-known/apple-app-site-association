@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      { "appIDs": ["FBUMY47VJ6.com.zephyrhq.acadia.staging"], "components": [{ "/": "/callback" }] }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["FBUMY47VJ6.com.zephyrhq.acadia.staging"]
+  }
+}
